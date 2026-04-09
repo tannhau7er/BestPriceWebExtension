@@ -1,0 +1,2 @@
+# BestPriceWebExtension
+for Privacy Policy
