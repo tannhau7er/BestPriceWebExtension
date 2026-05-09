@@ -1,4 +1,4 @@
-# Chrome Extensions Privacy Policy
+# Extensions Privacy Policy
 
 _Effective Date: April 9, 2026_
 
